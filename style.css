@@ -6,4 +6,26 @@
     background-color: grey;
     color: white;
     text-align: center;
-  }
+
+}
+body {
+background-image: url('https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-14.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+
+}
+
+h1{
+color: aqua;
+
+}
+
+p{
+color: aquamarine;
+
+}
+
+h2{
+color: aqua;
+}
