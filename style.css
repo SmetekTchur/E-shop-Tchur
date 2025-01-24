@@ -3,13 +3,13 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: grey;
+    background-color: #00ffff15 ;backdrop-filter: blur(8px);
     color: white;
     text-align: center;
 
 }
 body {
-background-image: url('https://wallpaperboat.com/wp-content/uploads/2019/10/best-background-for-website-14.jpg');
+background-image: url('Snímek\ obrazovky\ \(4\).png');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
