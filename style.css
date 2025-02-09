@@ -9,7 +9,7 @@
 
 }
 body {
-background-image: url('Snímek\ obrazovky\ \(4\).png');
+background-image: url('58998b70-eb69-479e-bed1-a88a5384f1ca.webp');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
@@ -17,15 +17,47 @@ background-size: 100% 100%;
 }
 
 h1{
-color: aqua;
-
+text-align: center;
+color: magenta;
+text-shadow:
+-1px -1px 0 black,
+ 1px -1px 0 black,
+-1px 1px 0 black,
+ 1px 1px 0 black;
 }
+
+
 
 p{
-color: aquamarine;
-
+text-align: center;
+color: magenta;
+text-shadow:
+-1px -1px 0 black,
+ 1px -1px 0 black,
+-1px 1px 0 black,
+ 1px 1px 0 black;
 }
 
+
+
+
 h2{
-color: aqua;
+text-align: center;
+color: magenta;
+text-shadow:
+-1px -1px 0 black,
+ 1px -1px 0 black,
+-1px 1px 0 black,
+ 1px 1px 0 black;
+}
+
+
+.smrtek{
+
+    border: 2px solid #00ffff15 ;backdrop-filter: blur(8px);
+    padding: 10px;
+    margin: 10px;
+    background-color: #00ffff15 ;backdrop-filter: blur(2px);
+    
+    
 }
