@@ -9,7 +9,7 @@
 
 }
 body {
-background-image: url('58998b70-eb69-479e-bed1-a88a5384f1ca.webp');
+background-image: url('file-Xmof3SSwWf2BbQ6HRip77S.png');
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: 100% 100%;
@@ -52,6 +52,9 @@ text-shadow:
 }
 
 
+
+
+
 .smrtek{
 
     border: 2px solid #00ffff15 ;backdrop-filter: blur(8px);
@@ -60,4 +63,34 @@ text-shadow:
     background-color: #00ffff15 ;backdrop-filter: blur(2px);
     
     
+}
+.hlavni-obrazek {
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    
+}
+.thumbnail {
+    width: 40px;
+    height:40px;
+    object-fit: cover;
+    cursor: pointer;
+    border: 2px solid transparent;
+    
+}
+
+.product-info {
+    display: none;
+}
+.product-info.active {
+    display: flex !important;
+}
+.thumbnail-box {
+    cursor: pointer;
+
+}
+.modry-ramecek {
+    border: 2px solid #00ffff15 ;backdrop-filter: blur(8px);
+    padding: 10px;
+    margin: 10px;
+    background-color: #00ffff15 ;backdrop-filter: blur(2px);
 }
